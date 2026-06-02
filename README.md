@@ -64,7 +64,3 @@ Go is widely used in modern backend systems because it:
 - Build production-ready applications
 
 ---
-
-## Author
-
-This repository is used for learning and practicing Go (Golang).
