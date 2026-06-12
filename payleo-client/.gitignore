@@ -1,1 +1,10 @@
 .env
+.env.*
+
+bin/
+vendor/
+
+.vscode/
+.idea/
+
+*.log
